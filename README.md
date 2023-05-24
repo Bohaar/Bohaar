@@ -10,3 +10,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: baharsammaknejad@gmail.com
 - 😄 Pronouns: she/her
 - 📄 Know about my experiences: https://drive.google.com/file/d/1JO_nYiBv0nDBkp93RyyH2VBDM_9YLWZp/view
+
+
+[README (1).md](https://github.com/Bohaar/Bohaar/files/11553489/README.1.md)
