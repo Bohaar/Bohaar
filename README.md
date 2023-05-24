@@ -1,8 +1,5 @@
 ### Hi there 👋 I'm Bahar.
 
-<!--
-**Bohaar/Bohaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Paperwoerker.com
@@ -12,4 +9,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Ruby on Rails, HTML & CSS. 
 - 📫 How to reach me: baharsammaknejad@gmail.com
 - 😄 Pronouns: she/her
--->
+- 📄 Know about my experiences: https://drive.google.com/file/d/1JO_nYiBv0nDBkp93RyyH2VBDM_9YLWZp/view
