@@ -4,8 +4,7 @@ Here are some things about me:
 
 - 🔭 I’m currently working on Paperwoerker.com
 - 🌱 I’m currently learning Javascript & React
-- 👯 I’m looking to collaborate on new projects. 
-- 🤔 I’m looking for help with finding a job. 
+- 👯 I’m looking to collaborate on new projects.
 - 💬 Ask me about Ruby on Rails, HTML & CSS. 
 - 📫 How to reach me: baharsammaknejad@gmail.com
 - 😄 Pronouns: she/her
